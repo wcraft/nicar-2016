@@ -2,7 +2,7 @@ Risks and Rewards of Rolling Your Own Criminal Justice Data
 ===========
 Building your own criminal justice databases, the approach and the danger of building your own data
 
-"The data is an unmitigated disaster" - Deputy Managing Editor, Marshall Project
+"The gov'ts data is an unmitigated disaster" - Deputy Managing Editor, Marshall Project
 
 presentation notes: bit.ly/cjcar16
 
