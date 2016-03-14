@@ -1,9 +1,9 @@
 Tracking Government Spending
 =====
-Nate Carlisle, The Salt Lake Tribune 
-Colby Goodman, Center for International Policy
-Kate Martin, The News Tribune
-Lee Zurik, WVUE-TV New Orleans
+Nate Carlisle, The Salt Lake Tribune  
+Colby Goodman, Center for International Policy  
+Kate Martin, The News Tribune  
+Lee Zurik, WVUE-TV New Orleans  
 
 ## Procurement database
 * how the local govt spends money

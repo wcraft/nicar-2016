@@ -1,8 +1,8 @@
 Deep Dive
 =======
-Adam Playford, Tampa Bay Times
-John Bones, VG
-Reuben Fischer-Baum, Dhrumil Mehta, 538
+Adam Playford, Tampa Bay Times  
+John Bones, VG  
+Reuben Fischer-Baum, Dhrumil Mehta, 538  
 
 
 ## Failure Factories

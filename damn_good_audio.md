@@ -1,8 +1,8 @@
 Data for Audio and Video
 =========
-Nancy Watzman, Political TV Ad Archive
-Mike Corey, CIR
-Kavya Sukumar, Vox Product
+Nancy Watzman, Political TV Ad Archive  
+Mike Corey, CIR  
+Kavya Sukumar, Vox Product  
 
 * Not a lot of people incorporate data into other forms of journalism
 

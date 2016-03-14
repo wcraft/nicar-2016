@@ -1,6 +1,7 @@
 Intro to CAR and the Conference
 ==============
-Presenters: Liz Lucas, IRE and Lisa Pickoff-White, KQED
+Liz Lucas, IRE  
+Lisa Pickoff-White, KQED
 
 Q: What is data jouralism
 Tips

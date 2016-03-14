@@ -2,10 +2,10 @@ All About the analysis
 =================
 What does interrogating the data mean? What does it entail?
 
-Tania Montalvo, Animal Politico
-Tyler Dukes, WRAL
-Ricardo Brom, La Nacion (has a 20+ page on data preparation, very worth reading)
-Chrys Wu, NYT
+Tania Montalvo, Animal Politico  
+Tyler Dukes, WRAL  
+Ricardo Brom, La Nacion (has a 20+ page on data preparation, very worth reading)  
+Chrys Wu, NYT  
 
 [slides and notes](j.mp/nicar16)
 

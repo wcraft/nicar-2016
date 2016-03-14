@@ -1,8 +1,8 @@
 New Uses for Old Data
 =====================
-John Perry, Atlanta Journal-Cobstitution
-Chase Davis, NY Times
-Ryan McNeill, Reuters
+John Perry, Atlanta Journal-Cobstitution  
+Chase Davis, NY Times  
+Ryan McNeill, Reuters  
 
 # Testing the Tests
 Looking at test score data with a more skeptical eye, most test score data is crap
