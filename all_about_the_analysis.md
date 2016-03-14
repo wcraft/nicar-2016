@@ -7,7 +7,7 @@ Tyler Dukes, WRAL
 Ricardo Brom, La Nacion (has a 20+ page on data preparation, very worth reading)
 Chrys Wu, NYT
 
-slides: j.mp/nicar16
+[slides and notes](j.mp/nicar16)
 
 ## NarcoData
 Tania Montalvo, Animal Politico
@@ -56,4 +56,4 @@ Ricardo Brom, La Nacion
 * Don't be afraid to ask small questions, the best way to start digging in might be asking a small, simple question like , "who did this the most/least?"
   * simple questions are the scaffolding of larger more difficult questions
 * keep track of where your data came from, especially if rolling your own data from multiple sources, allows you to cross reference all your information
-* Look at the laws that led to data being generated, will help you understand the context 
+* Look at the laws that led to data being generated, will help you understand the context

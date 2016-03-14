@@ -1,4 +1,9 @@
-
+Tracking Government Spending
+=====
+Nate Carlisle, The Salt Lake Tribune 
+Colby Goodman, Center for International Policy
+Kate Martin, The News Tribune
+Lee Zurik, WVUE-TV New Orleans
 
 ## Procurement database
 * how the local govt spends money
@@ -22,7 +27,7 @@
 
 
 ## Security Assistance Monitor
-Nate Colby, securityassistance.org
+Colby Goodman, securityassistance.org
 * primarily a research program, increasing transparency in military and police aid
 * created 4 databases on money spent on money
 * database on military and police aid is most complete one there is
@@ -31,7 +36,7 @@ Nate Colby, securityassistance.org
 * counter-narcotics assistance too
 
 ## Tracking Govt Spending
-Lee Zourik, New Orleans
+Lee Zurik, New Orleans
 * data often requested
   * check registers
   * payroll reports
@@ -53,4 +58,4 @@ Lee Zourik, New Orleans
 * dig deeper than just the database
 * Looked at vacation and sick time
   * found someone cashing out sick and vacation time, then looked at facebook and found that they were taking
-  * was logging paytime while on vacation 
+  * was logging paytime while on vacation

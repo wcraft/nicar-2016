@@ -1,8 +1,12 @@
 Deep Dive
 =======
+Adam Playford, Tampa Bay Times
+John Bones, VG
+Reuben Fischer-Baum, Dhrumil Mehta, 538
 
-# Failure Factories
-Adam, data editor at TBT  
+
+## Failure Factories
+Adam Playford, data editor at TBT  
 * started with an outlier, showed that the black performance for reading and writing was going down and down
 * looked at which schools had the worst schools
 * heard from kids in those schools about awful things happening
@@ -35,7 +39,7 @@ Adam, data editor at TBT
   * used the power of web presentation to show the power of what we are exploring
 
 
-## Working with big geodata without messign up
+## Working with big geodata without messing up
 Dhrumil Mehta, Reuben Fischer-Baum - 538
 * data: uber was expanding very quickly in NYC
   * received 4.4 million uber pickups, 89 million taxi pickups
@@ -74,7 +78,7 @@ Dhrumil Mehta, Reuben Fischer-Baum - 538
   * beware sunk costs!
   * visually validate
 
-# Its All About Numbers
+## Its All About Numbers
 John Bones, from norway
 * dont forget the stories at the heart of your numbers
 * immigration

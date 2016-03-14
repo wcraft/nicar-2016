@@ -16,7 +16,7 @@ We are here to help eachother! People love helping eachother
 
 CAR - computer assisted reporting, coined in 1989 at Missouri
 
-### The Process
+## The Process
 * start with a hypothesis, can be a simple question, has the testing been done?
 * Then, what do we need to know to answer, what data is available
   * getting the data, does it exist in a govt database
@@ -32,7 +32,7 @@ CAR - computer assisted reporting, coined in 1989 at Missouri
 * double check!!!
   * show the data, show the visualization to others, do they understand
 
-### Classic Stories
+## Classic Stories
 The slides have good stories
 * Measurement
   * LA Times, how much money do schools get from powerball
@@ -50,11 +50,11 @@ The slides have good stories
   * YOU CAN REQUEST IT!!! Request the form and the information in the forms
 
 
-### Public information
+## Public information
 * Public information acts request
 * keep track of your requests and the people you have spoken to
 
-### BEST PRACTICES
+## BEST PRACTICES
 * keep a copy of the original, don't work off of it
 * log everything you do
   * write down the formulas, write down the joins, make comments, keep track of everything
@@ -64,7 +64,7 @@ The slides have good stories
 * keep track of your methodology, write out all caveats, the more info you give to the public the better your reporting
 * use visualizations as appropriate
 
-### The Conference
+## The Conference
 * it is getting really big, its been going on since 1993
   * the first conference only had 300, data journalism is not a new thing
 * How should we approach the conference?
@@ -88,7 +88,7 @@ The slides have good stories
 * Planting the seeds, you wont come away an expert, you have to keep working at the ideas you pick up, learn what you can do
 * note visualizations can really help with the analysis portion of your reporting, can help you see things that you might not have been able to see
 
-## ideas
+## Ideas
 * Finding the story: Campaign Finance, Health, Energy, Crime, infrastructure
   * hands on classes where we grapple the data
 * there is an election track all about the different election sessions
@@ -98,4 +98,4 @@ The slides have good stories
 * career roundtable, get career advice on getting jobs and interviewing
 * Panels on lots of information like Dark Money
 * NICAR Conversations track, smaller groups talking about interesting topics
-* Only learn programming language when you absolutely need to. SQL and excel will do for most of the journalists out there 
+* Only learn programming language when you absolutely need to. SQL and excel will do for most of the journalists out there

@@ -2,12 +2,17 @@ Risks and Rewards of Rolling Your Own Criminal Justice Data
 ===========
 Building your own criminal justice databases, the approach and the danger of building your own data
 
+Kenan Davis, The Guardian
+Gabriel Dance adn Tom Meagher, The Marshall Project
+Jodi Upton, USA Today
+Steven Rich, Washington Post
+
+[Notes and slides from the presenters](https://github.com/tommeagher/cjcar16)
+
 "The gov'ts data is an unmitigated disaster" - Deputy Managing Editor, Marshall Project
 
-presentation notes: bit.ly/cjcar16
-
 ## Behind the bloodshed
-Jodi Upton
+Jodi Upton, USA Today 
 * No one was gathering data on mass shootings
 * No data from gun advocacy groups, all shootings, things that happen in a family
   * all the data is important to collect
@@ -117,5 +122,5 @@ Gabriel Dance, Marshall Project
   * A: if you can't verify, don't publish. State sponsored violence, we probably will never really know. You have to throw out a lot of good data
 * Q: Any govt agencies using the journalists datasets?
   * A: the fed govt starting a pilot program based on the methodology that the newspapers have started using to track shootings
-  * Academics love the datasets, they use the data to do analyses that they couldn't ever do before 
+  * Academics love the datasets, they use the data to do analyses that they couldn't ever do before
   * govt used to allow the data to be voluntarily reported

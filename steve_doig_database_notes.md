@@ -1,6 +1,7 @@
-Steve Doig
+More than 10 great business databases to mine for stories
+==
+Steve Doig, Professor, Cronkite School of Journalism
 
-# greater than 10 great business databases to mine for stories
 * not necessarily business databases
 * there are a ton of databases out there.
   * survey of state agencies, asking "what databases do you keep"
@@ -32,6 +33,7 @@ Steve Doig
     * not 100% accurate but the best we got
     * there is also an error margin around many answers
       * round census numbers off, don't imply that the census is spot-on
+
 ## Business.census.gov
 * measuring the economic life of what is happening in the us
 * there are forms biz's required to fill out
@@ -157,7 +159,7 @@ Steve Doig
   * slides have more information on which variables
   * interesting variable: who pays for it
 
-##BEBR
+## BEBR
 * bureau of economic and business research, in florida
   * basically the business survey but for the state, probably available in your state
   * state universities might have that information, might be gathering, independent economists can also help verify
@@ -208,7 +210,7 @@ Fight for the data, know the relevant laws about what people can and can't charg
 ## Gapminder
 * a site that allows for visualization of a lot of different information/variables
 
-#IRE/NICAR Data archives
+## IRE/NICAR Data archives
 * IRE members has a bunch of data archives available for purchase
   * a great trove of data gathered from federal agencies
   * will help extract data that you want, like if you only want your state's data
@@ -216,11 +218,11 @@ Fight for the data, know the relevant laws about what people can and can't charg
   * Home Owner disclosure act data, SBA 7a Business Loans data, DOT fatality analysis reporting system, etc etc
 
 
-# Databases from the Audience
+## Databases from the Audience
 * data.gov - an attempt to look transparent, not that good, very sparse
 * learning what is in these datasets is really important for developing stories out of the data, HMDA data specifically for one audience member was very valuable for working out stories of different kinds. Loan size was the basis of one story, race of the borrower developed into another story
 * consumer financial protection bureau has a lot of variables and can be searched by state, city, company, complaint
   * different agencies have different complaint
 * MSRB has a database called EMMA, has disclosures that you can look up
 * franchise disclosure agreements
-* FDIC.gov 
+* FDIC.gov

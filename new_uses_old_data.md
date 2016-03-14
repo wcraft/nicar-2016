@@ -1,5 +1,8 @@
 New Uses for Old Data
 =====================
+John Perry, Atlanta Journal-Cobstitution
+Chase Davis, NY Times
+Ryan McNeill, Reuters
 
 # Testing the Tests
 Looking at test score data with a more skeptical eye, most test score data is crap
@@ -45,7 +48,7 @@ The interactive works with the CAR team on campaign finance, sifts through the d
   * elex is part of that
 * the tech changes and the internal innovation has allowed for a better experience for the reader, can push updates live, has allowed for people who are not the devs to push out changes slash pull data
 
-# Same as it ever was?
+## Same as it ever was?
 Ryan McNeill, Reuters
 How to use long-existing data to tell a new story, looking at sea level rise
 investigation: Water's Edge
